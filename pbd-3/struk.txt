@@ -1,0 +1,3 @@
+=== STRUK PESANAN ===
+nasi goreng - Rp 50000.0
+Total: Rp 50000.0

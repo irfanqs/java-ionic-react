@@ -1,0 +1,7 @@
+{
+    // Tambahkan folder sumber agar Java Language Server mengenali file-file di root dan di folder pbd-3
+    "java.project.sourcePaths": [
+        ".",
+        "pbd-3"
+    ]
+}
